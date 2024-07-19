@@ -1,6 +1,6 @@
 # SolarGuardPro
 
-For Praxis III, our second-year engineering design course project, we developed a solar panel protection and cleaning solution to improve the efficiency of solar panel energy generation for residential buildings by addressing implementation issues related to West African weather conditions.
+For Praxis III, our second-year engineering design course project, we developed a solar panel protection and cleaning solution; the SolarGuard Pro! It was created to improve the efficiency of solar panel energy generation for residential buildings by addressing implementation issues related to West African weather conditions.
 
 A 3D Printed + laser cut CAD design was built for our prototype's chassis, along with an electrical subsystem and code architecture involving an Arduino Mega, colour sensors, photoresistors and a stepper motor.
 
