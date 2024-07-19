@@ -7,9 +7,11 @@ A 3D Printed + laser cut CAD design was built for our prototype's chassis, along
 The prototype detects when dust accumulation hinders the performance of the solar panel which it holds, and at that point, begins to autonomously rotate around the panel and clear all dust.
 
 Key Performance Stats:
-● PCT transmits 94.1% of
+-  PCT transmits 94.1% of
 sunlight!
-● Motors rotates full 360° with
+
+- Motors rotates full 360° with
 90% success
-● Dust maintained below
+  
+-Dust maintained below
 constraint of 0.224 mg/cm2
